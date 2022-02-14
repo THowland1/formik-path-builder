@@ -1,4 +1,23 @@
 {
   "name": "formik-path-builder",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "description": "A string builder that can build formik-readable paths of a given object in a TypeScript-enforced way",
+  "license": "MIT",
+  "homepage": "https://github.com/THowland1/formik-path-builder",
+  "author": {
+    "name": "Tom Howland",
+    "url": "https://tomhowland.com",
+    "email": "tomhowland9@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THowland1/formik-path-builder.git"
+  },
+  "main": "index.ts",
+  "keywords": [
+    "typescript",
+    "formik",
+    "object",
+    "properties"
+  ]
 }
